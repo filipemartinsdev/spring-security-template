@@ -14,6 +14,7 @@ Aplicação com template de configuração para Spring Security para API RESTful
 - Lombok
 - JWT
 - Docker/Docker compose
+- Flyway
 - PostgreSQL
 - H2 Database
 
@@ -24,6 +25,7 @@ Aplicação com template de configuração para Spring Security para API RESTful
 - [x] Hash de senha (BCrypt)
 - [x] Imagem Docker
 - [x] Orquestração de containers (docker compose)
+- [x] Persistência (PostgreSQL) 
 
 ## Como executar
 
