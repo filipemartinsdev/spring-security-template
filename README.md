@@ -34,9 +34,10 @@ Aplicação com template de configuração para Spring Security para API RESTful
 
 ---
 
-1. Clonar o projeto
+1. Clonar e entrar no projeto
   ````bash
   git clone https://github.com/filipemartinsdev/spring-security-template
+  cd spring-security-template
   ````
    
 2. Criar o pacote JAR
